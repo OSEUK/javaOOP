@@ -14,7 +14,7 @@ public class Project1 {
             arr[i] = sc.nextLine().trim();
 
             // 공백을 입력받을 경우 다시 입력
-            if( arr[i].length() == 0 )
+            if( arr[i].isEmpty() )
                 continue;
 
             // '/'로 시작하는 명령문 판단
