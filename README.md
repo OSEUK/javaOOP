@@ -2,4 +2,4 @@
 ---
 * Homework = 과제, 시험
 * Code = 실습(연습) 코드
-* A+
+* A+ complete
